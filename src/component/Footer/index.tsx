@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
           </div>
 
           {/* Links */}
-          <div className="flex flex-col md:flex-row gap-8 md:w-2/3">
+          <div className="flex flex-col md:flex-row gap-8 md:w-2/3 justify-end">
             <div>
               <h3 className="text-white font-semibold mb-4">Product</h3>
               <ul className="space-y-2">

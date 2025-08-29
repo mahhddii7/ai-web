@@ -8,10 +8,7 @@ function LaptopContent() {
       transition={{ duration: 0.7, delay: 0.1 }}
       className="relative"
     >
-      <img
-        src="../../public/image/laptop.png"
-        className="drop-shadow-[0_0_30px_#7b59ff]"
-      />
+      <img src="/image/laptop.png" className="drop-shadow-[0_0_30px_#7b59ff]" />
     </motion.div>
   );
 }

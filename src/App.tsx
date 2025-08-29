@@ -11,8 +11,8 @@ function App() {
       <FeaturesSection />
       <HowItWorksSection />
       <ComparingSection
-        afterSrc="./public/image/laptop.jpg"
-        beforeSrc="public/image/laptop 2.jpg"
+        afterSrc="/image/laptop.jpg"
+        beforeSrc="/image/laptop 2.jpg"
       />
       <CommentSection />
       <Footer />
